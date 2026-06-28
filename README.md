@@ -6,11 +6,6 @@ A microprogrammed control unit simulator built in 8086 assembly with a Python/Tk
 
 This project demonstrates how a control unit generates control signals to drive CPU operations. The assembly program simulates four microinstructions, while the Python GUI visualizes register states, active control signals, and step-by-step execution in real time.
 
-## Authors
-
-- Haseeb Ahmed [512009]
-- Moez Ali [528915]
-
 ## Features
 
 - Fetch-decode-execute cycle simulation
